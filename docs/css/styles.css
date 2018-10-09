@@ -30,7 +30,10 @@ h6{
     color : blue;
 
 }
-
+#header li {
+    display: inline;
+    font-size: 160%;
+}
 #main h1 {
     color : darkblue;
 
