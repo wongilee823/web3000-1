@@ -1,6 +1,6 @@
 body {
     font-size: 12px;
-    font-family: "Helvetica Neue";
+    font-family: "Helvetica Neue", serif;
 }
 h1{
     font-size: 200%;
@@ -28,7 +28,7 @@ h6{
 
 #header h1 {
     color : blue;
-    font-size: 100%;
+
 }
 
 #main h1 {
